@@ -1,6 +1,8 @@
 # datascience_allinone
 Data Science All-in-One
+
 Data Science Self-Learning Repository
+
 This repository contains all the materials, code, and notes related to my self-learning journey in Data Science. It is structured around multiple key modules that cover fundamental and advanced topics in this field. The content is organized in a progressive manner, starting from the basics and moving toward cutting-edge concepts in Data Science and Deep Learning.
 
 Modules Included:
